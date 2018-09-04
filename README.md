@@ -24,7 +24,7 @@
 
 + [无需登录]获取作品列表：
 
-[http://127.0.0.1:9102/api?action=aweme/post&user_id=83774364341&max_cursor=0&count=200](http://127.0.0.1:9102/api?action=aweme/post&user_id=83774364341&max_cursor=0&count=200)
+[http://127.0.0.1:9102/api?action=aweme/post&user_id=83774364341&max_cursor=0&count=20](http://127.0.0.1:9102/api?action=aweme/post&user_id=83774364341&max_cursor=0&count=20)
 
 + [无需登录]获取用户信息：
 
